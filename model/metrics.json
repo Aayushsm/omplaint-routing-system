@@ -1,0 +1,321 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "classification_report": {
+    "ATM Issue": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Account Services": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Card Issue": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Charges / Fees": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Duplicate Transaction": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Failed Transaction": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Fraud / Suspicious Activity": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Loan / EMI": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Login / Account Access": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Mobile Banking / App Issue": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Payment Issue": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Refund / Reversal": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 168.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 168.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14
+    ]
+  ],
+  "labels": [
+    "ATM Issue",
+    "Account Services",
+    "Card Issue",
+    "Charges / Fees",
+    "Duplicate Transaction",
+    "Failed Transaction",
+    "Fraud / Suspicious Activity",
+    "Loan / EMI",
+    "Login / Account Access",
+    "Mobile Banking / App Issue",
+    "Payment Issue",
+    "Refund / Reversal"
+  ],
+  "n_train_samples": 672,
+  "n_test_samples": 168,
+  "n_total_samples": 840,
+  "categories": [
+    "ATM Issue",
+    "Account Services",
+    "Card Issue",
+    "Charges / Fees",
+    "Duplicate Transaction",
+    "Failed Transaction",
+    "Fraud / Suspicious Activity",
+    "Loan / EMI",
+    "Login / Account Access",
+    "Mobile Banking / App Issue",
+    "Payment Issue",
+    "Refund / Reversal"
+  ],
+  "model_comparison": {
+    "Multinomial Naive Bayes": {
+      "accuracy": 0.9940476190476191,
+      "precision": 0.9944444444444445,
+      "recall": 0.9940476190476191,
+      "f1_score": 0.9940400170285227
+    },
+    "Linear SVM": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    "Logistic Regression (used by app)": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    }
+  },
+  "stricter_template_holdout_eval": {
+    "accuracy": 0.7530120481927711,
+    "precision": 0.8648476257973069,
+    "recall": 0.7530120481927711,
+    "f1_score": 0.7848581633962441,
+    "note": "This score comes from a stricter evaluation where the test set uses complaint templates never seen in training (not just different filler words). It is reported for transparency and is lower than the main stratified-split score because the synthetic dataset is template-based."
+  }
+}

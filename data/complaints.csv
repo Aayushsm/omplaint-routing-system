@@ -1,0 +1,841 @@
+complaint_text,category,template_id
+"Hello, The transaction failed but money was deducted from my account. Please resolve this as soon as possible.",Failed Transaction,Failed Transaction__0
+"Hello, My refund of 2000 rupees was supposed to arrive within 5-7 days but hasn't. Can someone from the bank contact me?",Refund / Reversal,Refund / Reversal__11
+"Hello, My account got locked and I don't know how to unlock it. Please resolve this as soon as possible.",Login / Account Access,Login / Account Access__8
+"Hello there, I need to request a replacement for my expired card. I need this fixed quickly.",Card Issue,Card Issue__8
+"Hi team, I can't seem to reset my MPIN for the banking portal. Please help me resolve this.",Login / Account Access,Login / Account Access__14
+"Dear Sir/Madam, I need an update on the reversal for my failed Google Pay payment. This is really frustrating.",Refund / Reversal,Refund / Reversal__7
+"Hello, I sent money to a friend and it failed, but the amount is gone.",Failed Transaction,Failed Transaction__9
+"Respected Sir, I need to request a replacement for my expired card. Please help me resolve this.",Card Issue,Card Issue__8
+"Good morning, I cannot log into my accont. Can someone from the bank contact me?",Login / Account Access,Login / Account Access__0
+There's a discrepancy in my loan statement regarding the outstanding balance. Please resolve this as soon as possible.,Loan / EMI,Loan / EMI__5
+"Hi team, My bill payment got processed twice by mistake.",Duplicate Transaction,Duplicate Transaction__10
+"Hi, Can you assist me in closing my old account? This has been going on for days now.",Account Services,Account Services__5
+"Respected Sir, My card got stuck inside the machine at the Koramangala branch.",ATM Issue,ATM Issue__5
+"Dear Sir/Madam, The payment confirmation SMS never arrived even though I paid. Please advise on the next steps.",Payment Issue,Payment Issue__17
+"Hello there, I want to increase my account's transaction limit. Kindly look into this urgently.",Account Services,Account Services__14
+"Hello there, The app logs me out automatically every few minutes. Please help me resolve this.",Mobile Banking / App Issue,Mobile Banking / App Issue__8
+"Dear Sir/Madam, The ATM gave an error but still deducted Rs. 3,400 from my balance. Kindly look into this urgently.",ATM Issue,ATM Issue__7
+"Can someone clarify why Rs. 10,000 was deducted as a service charge? This is really frustrating.",Charges / Fees,Charges / Fees__12
+"Hi team, The app freezes every time I try to make a transfer. Can someone from the bank contact me?",Mobile Banking / App Issue,Mobile Banking / App Issue__3
+"Respected Sir, The ATM did not dispense cash even though my account was debited. Kindly look into this urgently.",ATM Issue,ATM Issue__0
+"Hi, My credit card got blocked without any notification. This is really frustrating.",Card Issue,Card Issue__2
+"Hi, The paymnet confirmation SMS never arrived even though I paid. This has been going on for days now.",Payment Issue,Payment Issue__17
+The server error caused my transaction to fail a few minutes ago. Can someone from the bank contact me?,Failed Transaction,Failed Transaction__17
+"Hello there, I was billed an annual fee I wasn't informed about. pls escalate this if needed.",Charges / Fees,Charges / Fees__2
+Why does my payment status say 'processing' even after this morning? I need this fixed quickly.,Payment Issue,Payment Issue__10
+I inserted my card and the ATM shut down without returning it.,ATM Issue,ATM Issue__10
+My bill payment got processed twice by mistake.,Duplicate Transaction,Duplicate Transaction__10
+"Hi team, I need to change the name on my account after marriage.",Account Services,Account Services__9
+My EMI was deduted twice this month by mistake.,Loan / EMI,Loan / EMI__6
+"Dear Sir/Madam, I scanned a QR code to pay Rs. 1,200 and nothing happened after that. Please resolve this as soon as possible.",Payment Issue,Payment Issue__12
+"Hello there, The merchant confirmed my refund but it's not in my account. Please advise on the next steps.",Refund / Reversal,Refund / Reversal__6
+"Hello there, My NEFT request failed this morning without any explanation.",Failed Transaction,Failed Transaction__13
+"Respected Sir, My UPI transfer failed and I didn't get my money back. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__1
+"Good morning, I missed an EMI paymnet and want to know the penalty involved. Please resolve this as soon as possible.",Loan / EMI,Loan / EMI__9
+"Hello there, This is the second time I've been billed twice for the same order. Kindly look into this urgently.",Duplicate Transaction,Duplicate Transaction__9
+"Hello, I was charged 2000 rupees for falling below the minimum balence. Please help me resolve this.",Charges / Fees,Charges / Fees__7
+"Hi, There are suspicious withdrawals from my account that I never authorised. This has been going on for days now.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__2
+"Dear Sir/Madam, I'm trying to pay a merchant but the payment keeps failing halfway. This is really frustrating.",Payment Issue,Payment Issue__5
+My cancelled transaction has not been refunded. Please resolve this as soon as possible.,Refund / Reversal,Refund / Reversal__0
+I cancelled a subscription and I'm still waiting for the refund. I need this fixed quickly.,Refund / Reversal,Refund / Reversal__9
+"Hello, My new card hasn't arrived yet even though it was issued weeks ago. Please resolve this as soon as possible.",Card Issue,Card Issue__5
+I'm locked out of my account after too many failed login attempts. I need this fixed quickly.,Login / Account Access,Login / Account Access__3
+"Hi, Duplicate entry of $50 shows up in my transction history. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__6
+"Hello there, I was billed an annual fee I wasn't informed about. Please resolve this as soon as possible.",Charges / Fees,Charges / Fees__2
+"Hi, Can you explain this maintenance charge deducted last week?",Charges / Fees,Charges / Fees__3
+"Hi team, How do I update my KYC documents? Please resolve this as soon as possible.",Account Services,Account Services__8
+"My withdrawal of Rs. 1,200 at the branch near my office was not successful but money is deducted.",ATM Issue,ATM Issue__14
+"Respected Sir, I cannot log into my account. Please advise on the next steps.",Login / Account Access,Login / Account Access__0
+Can I get my passbook updated with recent transactions? This is really frustrating.,Account Services,Account Services__10
+"Respected Sir, I want to prepay my personal loan but don't know the process. This is really frustrating.",Loan / EMI,Loan / EMI__4
+"Respected Sir, I got double debited for a single purchase I made earlier today. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__2
+"Hello, There is an issue with a paymnet I sent via IMPS.",Payment Issue,Payment Issue__4
+There's unauthorized activity on my account that I need investigated urgently. Please resolve this as soon as possible.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__10
+"Respected Sir, I returned a product but haven't received my money back. This has been going on for days now.",Refund / Reversal,Refund / Reversal__2
+"I was promised a reversal of Rs. 3,400 that hasn't happened yet. I would appreciate a quick response.",Refund / Reversal,Refund / Reversal__4
+I want to update my account details. I would appreciate a quick response.,Account Services,Account Services__0
+"Good morning, My online transfer of Rs. 15,000 has failed and hasn't been reversed yet. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__10
+"Good morning, I want to link my new phone number to my bank account. I need this fixed quickly.",Account Services,Account Services__11
+"Hello there, I'm unable to complete a payment even after multiple tries. Please escalate this if needed.",Payment Issue,Payment Issue__15
+The ATM at my nearest branch was out of service but still processed my request. Can someone from the bank contact me?,ATM Issue,ATM Issue__9
+"Good morning, I suspect someone has cloned my debit card. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__9
+The server error caused my transction to fail yesterday. Please escalate this if needed.,Failed Transaction,Failed Transaction__17
+"Hello there, The payment confirmation SMS never arrived even though I paid. Please help me resolve this.",Payment Issue,Payment Issue__17
+"Hello there, My transfer to another bank failed halfway through the process. Please help me resolve this.",Failed Transaction,Failed Transaction__16
+"Hello, My new card hasn't arrived yet even though it was issued weeks ago. This is really frustrating.",Card Issue,Card Issue__5
+The chargeback I requested hasn't been credited to my account. Kindly look into this urgently.,Refund / Reversal,Refund / Reversal__10
+I suspect someone has cloned my debit card. This has been going on for days now.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__9
+"Respected Sir, Why am I being charged for using an ATM of another bank?",Charges / Fees,Charges / Fees__5
+"Good morning, The net banking portal keeps saying invalid credentials. Can someone from the bank contact me?",Login / Account Access,Login / Account Access__2
+"Hi, The app showed 'transaction failed' but my account was still charged. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__8
+"Good morning, My card was used online for a purchase I never made.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__8
+"Good morning, There are suspicious withdrawals from my accont that I never authorised. Please resolve this as soon as possible.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__2
+"Dear Sir/Madam, My OTP for login never arrives on my phone. Please help me resolve this.",Login / Account Access,Login / Account Access__4
+"Hi team, The card reader keeps rejecting my card everywhere I try. I need this fixed quickly.",Card Issue,Card Issue__3
+Why has my EMI increased suddenly without explanation? Kindly look into this urgently.,Loan / EMI,Loan / EMI__8
+I keep getting 'transaction declined' even though everything looks fine. pls resolve this as soon as possible.,Failed Transaction,Failed Transaction__14
+The amount debited during a failed transaction was never reversed. Please escalate this if needed.,Refund / Reversal,Refund / Reversal__13
+"Hi, My accont was compromised and money is missing.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__14
+"Hello there, The QR code payment I did last night isn't reflecting anywhere. Please escalate this if needed.",Payment Issue,Payment Issue__11
+I missed an EMI paymnet and want to know the penalty involved. I would appreciate a quick response.,Loan / EMI,Loan / EMI__9
+"Hello there, I got double debited for a single purchase I made earlier today. This is really frustrating.",Duplicate Transaction,Duplicate Transaction__2
+"Hi team, I want to add a nominee to my savings account. I would appreciate a quick response.",Account Services,Account Services__4
+"Hello there, The app shows outdated transaction history that hasn't refreshed in days. Kindly look into this urgently.",Mobile Banking / App Issue,Mobile Banking / App Issue__12
+"Respected Sir, Why has my EMI increased suddenly without explanation?",Loan / EMI,Loan / EMI__8
+"Good morning, My fingerprint login stopped working on the app. Please advise on the next steps.",Login / Account Access,Login / Account Access__13
+"Hello, The auto-debit for my car loan EMI failed even though I had funds.",Loan / EMI,Loan / EMI__12
+The ATM at the MG Road ATM was out of service but still processed my request. pls help me resolve this.,ATM Issue,ATM Issue__9
+I noticed a hidden fee of Rs. 99 that I never agreed to. pls advise on the next steps.,Charges / Fees,Charges / Fees__4
+"Good morning, My Google Pay transfer failed and I didn't get my money back.",Failed Transaction,Failed Transaction__1
+"Dear Sir/Madam, Someone withdrew Rs. 15,000 from my account without my consent. pls advise on the next steps.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__12
+"Hello there, My credit card got blocked without any notification. Please escalate this if needed.",Card Issue,Card Issue__2
+"Respected Sir, Duplicate entry of Rs. 1,200 shows up in my transaction history. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__6
+"Dear Sir/Madam, When will I recieve my refund? Please advise on the next steps.",Refund / Reversal,Refund / Reversal__1
+"Dear Sir/Madam, My debit card paymnet shows as pending for over an hour now. Please advise on the next steps.",Payment Issue,Payment Issue__6
+"Dear Sir/Madam, I received a debit alert for Rs. 99 but the ATM gave me nothing.",ATM Issue,ATM Issue__12
+"Hi team, Someone has used my card without permission. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__1
+Why did my transfer fail when I had sufficient balance? This has been going on for days now.,Failed Transaction,Failed Transaction__7
+"Hi team, I want to link my new phone number to my bank accont. Can someone from the bank contact me?",Account Services,Account Services__11
+"Dear Sir/Madam, Someone has used my card without permission. Please resolve this as soon as possible.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__1
+I only swiped my card once but was charged for it twice. This has been going on for days now.,Duplicate Transaction,Duplicate Transaction__11
+"Hi, My payment of 500 rupees is not showing correctly in my statement.",Payment Issue,Payment Issue__1
+I tried transferring money and it failed midway through.,Failed Transaction,Failed Transaction__4
+"Dear Sir/Madam, The merchant confirmed my refund but it's not in my account.",Refund / Reversal,Refund / Reversal__6
+"Respected Sir, Refund status shows processed but I don't see the money.",Refund / Reversal,Refund / Reversal__8
+My card details seem to have stopped working online. pls resolve this as soon as possible.,Card Issue,Card Issue__11
+I think my card details have been stolen and misused. This is really frustrating.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__4
+"Dear Sir/Madam, The refnd for my failed transaction is taking too long. I would appreciate a quick response.",Refund / Reversal,Refund / Reversal__3
+"Respected Sir, I see the same amount deducted twice within a few minutes. I would appreciate a quick response.",Duplicate Transaction,Duplicate Transaction__7
+"Hi team, I can't seem to reset my MPIN for the banking portal. Please resolve this as soon as possible.",Login / Account Access,Login / Account Access__14
+"Good morning, I forgot my username for the online banking portal.",Login / Account Access,Login / Account Access__7
+My payment of Rs. 500 is not showing correctly in my statement. Please advise on the next steps.,Payment Issue,Payment Issue__1
+"Hi team, I got a fraud alert for a transaction of 2000 rupees I don't recognise. This has been going on for days now.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__11
+"Dear Sir/Madam, I want an explanation for the late payment fee applied to my card.",Charges / Fees,Charges / Fees__10
+"An unknown transaction of Rs. 2,500 appeared on my statement. pls resolve this as soon as possible.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__5
+"Hello, I keep getting error messages when I try to update my profile in the app. pls advise on the next steps.",Mobile Banking / App Issue,Mobile Banking / App Issue__13
+My card was used online for a purchase I never made.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__8
+The ATM at my nearest branch was out of service but still processed my request. Kindly look into this urgently.,ATM Issue,ATM Issue__9
+"Hi, There's a discrepancy in my loan statement regarding the outstanding balance. Please escalate this if needed.",Loan / EMI,Loan / EMI__5
+"Hello there, My the website payment shows as pending for over an hour now. Please advise on the next steps.",Payment Issue,Payment Issue__6
+"Hello there, My credit score dropped after a loan payment that I did make on time.",Loan / EMI,Loan / EMI__14
+"Dear Sir/Madam, The app's login screen just keeps spinning and never lets me in. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__18
+"Good morning, The app showed 'transaction failed' but my accont was still charged. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__8
+"Respected Sir, The ATM did not dispense cash even though my account was debited. I need this fixed quickly.",ATM Issue,ATM Issue__0
+"Hello, I tried withdrawing money at the MG Road ATM and the ATM went out of order mid-transaction. I would appreciate a quick response.",ATM Issue,ATM Issue__3
+"Hello there, I want to open a new fixed deposit accont.",Account Services,Account Services__7
+"Dear Sir/Madam, My cancelled order refnd is still pending after two weeks. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__5
+"Hello, The ATM gave an error but still deduted Rs. 2,500 from my balance. Please help me resolve this.",ATM Issue,ATM Issue__7
+"Hi, The refund for my failed transaction is taking too long. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__3
+"Hello, I want to add a nominee to my savings accont. Please help me resolve this.",Account Services,Account Services__4
+"Respected Sir, My credit score dropped after a loan paymnet that I did make on time. Kindly look into this urgently.",Loan / EMI,Loan / EMI__14
+"Hello, I returned a product but haven't received my money back.",Refund / Reversal,Refund / Reversal__2
+Transaction unsuccessful message appeared but the money left my account. Please advise on the next steps.,Failed Transaction,Failed Transaction__11
+My banking app shows a blank screen after the update. pls resolve this as soon as possible.,Mobile Banking / App Issue,Mobile Banking / App Issue__4
+"Good morning, This SMS alert charge seems unusually high this month. pls escalate this if needed.",Charges / Fees,Charges / Fees__8
+My cancelled transaction has not been refunded.,Refund / Reversal,Refund / Reversal__0
+Cash was not received but my account shows a debit of Rs. 99. Please resolve this as soon as possible.,ATM Issue,ATM Issue__2
+There is an unexpected service charge on my statement. Please advise on the next steps.,Charges / Fees,Charges / Fees__1
+I made a payment through Paytm but something went wrong. I need this fixed quickly.,Payment Issue,Payment Issue__0
+"Hi team, I can't sign in to the app, it just keeps spinning. Please advise on the next steps.",Login / Account Access,Login / Account Access__15
+There is an unexpected service charge on my statement.,Charges / Fees,Charges / Fees__1
+"Hi team, Someone has used my card without permission.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__1
+"Hi, Refund status shows processed but I don't see the money. I need this fixed quickly.",Refund / Reversal,Refund / Reversal__8
+"Hi team, The fingerprint login on the app suddenly stopped working.",Mobile Banking / App Issue,Mobile Banking / App Issue__7
+"Hello, The app showed 'transaction failed' but my account was still charged.",Failed Transaction,Failed Transaction__8
+"Hi team, I want to know why my reversal request is still pending. This is really frustrating.",Refund / Reversal,Refund / Reversal__12
+"Good morning, The system says my transaction timed out and failed. Please resolve this as soon as possible.",Failed Transaction,Failed Transaction__12
+"Good morning, My account shows charges from a location I've never visited. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__3
+"My refund of Rs. 10,000 was supposed to arrive within 5-7 days but hasn't. This is really frustrating.",Refund / Reversal,Refund / Reversal__11
+"Hello there, My salary payment seems to have an issue this month. Please resolve this as soon as possible.",Payment Issue,Payment Issue__13
+"Hi, My online transfer of $50 has failed and hasn't been reversed yet.",Failed Transaction,Failed Transaction__10
+"Hello there, I paid 500 rupees but the receiver says they never got it.",Payment Issue,Payment Issue__7
+"Respected Sir, I can't download my e-statement from the mobile app.",Mobile Banking / App Issue,Mobile Banking / App Issue__9
+"Respected Sir, A payment attempt failed but I still see a debit entry. Please advise on the next steps.",Failed Transaction,Failed Transaction__15
+"Hi, I paid 500 rupees but the receiver says they never got it. I would appreciate a quick response.",Payment Issue,Payment Issue__7
+"Hi team, I received a debit alert for Rs. 3,400 but the ATM gave me nothing.",ATM Issue,ATM Issue__12
+"Hello, Can you help me unblock my card? It got locked after a few wrong PIN attempts.",Card Issue,Card Issue__10
+I think I've been a victim of a phishing scam involving my bank accont. Can someone from the bank contact me?,Fraud / Suspicious Activity,Fraud / Suspicious Activity__13
+I need a copy of my accont statement for the last six months.,Account Services,Account Services__6
+"Dear Sir/Madam, My transfer to another bank failed halfway through the process. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__16
+"Hello there, My EMI was deducted incorrectly this month. This has been going on for days now.",Loan / EMI,Loan / EMI__0
+"Hello, I can't download my e-statement from the mobile app. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__9
+"Good morning, I cancelled a subscription and I'm still waiting for the refund. I need this fixed quickly.",Refund / Reversal,Refund / Reversal__9
+"Dear Sir/Madam, There is an unexpected service charge on my statement. I would appreciate a quick response.",Charges / Fees,Charges / Fees__1
+The security question I set up isn't being accepted. Please advise on the next steps.,Login / Account Access,Login / Account Access__12
+"Hello there, Duplicate entry of $200 shows up in my transaction history. This is really frustrating.",Duplicate Transaction,Duplicate Transaction__6
+"Hello there, A transaction of Rs. 10,000 failed but the amount is still debited. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__2
+"Respected Sir, The ATM screen froze after I entered my PIN earlier today.",ATM Issue,ATM Issue__4
+"Dear Sir/Madam, I want to know why my reversal request is still pending. This is really frustrating.",Refund / Reversal,Refund / Reversal__12
+"The same transction of Rs. 10,000 appears two times in my statement. Kindly look into this urgently.",Duplicate Transaction,Duplicate Transaction__1
+"Hi team, Every time I try to log in it says session expired. Kindly look into this urgently.",Login / Account Access,Login / Account Access__10
+"Hi team, There's a charge on my accont that doesn't match any purchase I made.",Charges / Fees,Charges / Fees__11
+"Hello there, Why do I see a processing fee for a free transaction? This is really frustrating.",Charges / Fees,Charges / Fees__9
+"Respected Sir, The cash dispenser jammed while I was withdrawing 500 rupees. Can someone from the bank contact me?",ATM Issue,ATM Issue__11
+"Good morning, The ATM screen froze after I entered my PIN last night.",ATM Issue,ATM Issue__4
+"Hello, The app showed 'transaction failed' but my accont was still charged. Please advise on the next steps.",Failed Transaction,Failed Transaction__8
+"Hi team, I returned a product but haven't received my money back. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__2
+The merchant confirmed my refund but it's not in my account. pls advise on the next steps.,Refund / Reversal,Refund / Reversal__6
+"Dear Sir/Madam, The app won't let me log in even with the correct password. This is really frustrating.",Login / Account Access,Login / Account Access__16
+"Hi team, There is an unexpected service charge on my statement. Please advise on the next steps.",Charges / Fees,Charges / Fees__1
+"Dear Sir/Madam, My OTP for login never arrives on my phone.",Login / Account Access,Login / Account Access__4
+"Dear Sir/Madam, I want to add a nominee to my savings account. Please advise on the next steps.",Account Services,Account Services__4
+"Dear Sir/Madam, I paid my credit card bill but it's not reflecting in the account. Kindly look into this urgently.",Payment Issue,Payment Issue__18
+"Hello there, My EMI amount changed without any prior notice. This is really frustrating.",Loan / EMI,Loan / EMI__3
+"Hello there, Someone withdrew Rs. 1,200 from my account without my consent. Please help me resolve this.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__12
+"Dear Sir/Madam, I can't sign in to the app, it just keeps spinning. Please escalate this if needed.",Login / Account Access,Login / Account Access__15
+"Hi, My transaction failed at the MG Road ATM but the balance still shows deducted.",Failed Transaction,Failed Transaction__6
+"Hello there, Why am I being charged for using an ATM of another bank? pls advise on the next steps.",Charges / Fees,Charges / Fees__5
+"Good morning, My debit card request failed earlier today without any explanation. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__13
+"Dear Sir/Madam, The transaction failed but money was deducted from my account. This has been going on for days now.",Failed Transaction,Failed Transaction__0
+My banking app shows a blank screen after the update.,Mobile Banking / App Issue,Mobile Banking / App Issue__4
+"Good morning, I attempted a payment just now and got a weird error code.",Payment Issue,Payment Issue__9
+"Hello there, I inserted my card and the ATM shut down without returning it. Can someone from the bank contact me?",ATM Issue,ATM Issue__10
+I need a foreclosure statement for my home loan. This is really frustrating.,Loan / EMI,Loan / EMI__7
+My salary payment seems to have an issue this month.,Payment Issue,Payment Issue__13
+"Dear Sir/Madam, One purchase resulted in two separate charges on my card. Kindly look into this urgently.",Duplicate Transaction,Duplicate Transaction__8
+"Good morning, This SMS alert charge seems unusually high this month. Kindly look into this urgently.",Charges / Fees,Charges / Fees__8
+"Respected Sir, I'm locked out of my account after too many failed login attempts. Can someone from the bank contact me?",Login / Account Access,Login / Account Access__3
+"Good morning, I'm unable to log in using my registered mobile number. Please resolve this as soon as possible.",Login / Account Access,Login / Account Access__9
+"Hello, I can't sign in to the app, it just keeps spinning.",Login / Account Access,Login / Account Access__15
+"Hello, I lost my card just now and need to block it immediatly.",Card Issue,Card Issue__4
+"Hi team, This SMS alert charge seems unusually high this month. Please help me resolve this.",Charges / Fees,Charges / Fees__8
+"Hi, I'm unable to log in using my registered mobile number. I need this fixed quickly.",Login / Account Access,Login / Account Access__9
+"Hello, Can you assist me in closing my old account? I would appreciate a quick response.",Account Services,Account Services__5
+"Hi team, My card got stuck inside the machine at the Koramangala branch.",ATM Issue,ATM Issue__5
+I want to link my new phone number to my bank account. Please resolve this as soon as possible.,Account Services,Account Services__11
+"Dear Sir/Madam, I inserted my card and the ATM shut down without returning it. I would appreciate a quick response.",ATM Issue,ATM Issue__10
+"Good morning, My debit card is not working at any store. This is really frustrating.",Card Issue,Card Issue__0
+A payment attempt failed but I still see a debit entry. Please help me resolve this.,Failed Transaction,Failed Transaction__15
+"Hi team, There is an unexpected service charge on my statement. I need this fixed quickly.",Charges / Fees,Charges / Fees__1
+"Hello, Someone accessed my net banking account without my knowledge. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__6
+"Dear Sir/Madam, I only made one paymnet but two deductions happened.",Duplicate Transaction,Duplicate Transaction__5
+"Good morning, The QR code payment I did a few minutes ago isn't reflecting anywhere. Please help me resolve this.",Payment Issue,Payment Issue__11
+My banking app shows a blank screen after the update. Kindly look into this urgently.,Mobile Banking / App Issue,Mobile Banking / App Issue__4
+"Hello, Why am I being charged for using an ATM of another bank? Can someone from the bank contact me?",Charges / Fees,Charges / Fees__5
+"Hi, I was promised a reversal of Rs. 10,000 that hasn't happened yet.",Refund / Reversal,Refund / Reversal__4
+"Good morning, I can't view my accont balance on the app.",Mobile Banking / App Issue,Mobile Banking / App Issue__2
+There's a repeated transaction of Rs. 500 that I never authorised twice. Please escalate this if needed.,Duplicate Transaction,Duplicate Transaction__12
+"Hi team, The app won't let me log in even with the correct password.",Login / Account Access,Login / Account Access__16
+The system says my transaction timed out and failed. Kindly look into this urgently.,Failed Transaction,Failed Transaction__12
+"Hi team, The card reader keeps rejecting my card everywhere I try. I would appreciate a quick response.",Card Issue,Card Issue__3
+"Dear Sir/Madam, I was billed an annual fee I wasn't informed about. Can someone from the bank contact me?",Charges / Fees,Charges / Fees__2
+"Hello there, I scanned a QR code to pay Rs. 10,000 and nothing happened after that. Kindly look into this urgently.",Payment Issue,Payment Issue__12
+"Hi, I want to increase my account's transaction limit. Please escalate this if needed.",Account Services,Account Services__14
+"Hi team, I think my card details have been stolen and misused. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__4
+"Hello there, I changed my password but now neither the old nor new one works. Please escalate this if needed.",Login / Account Access,Login / Account Access__11
+"Hello, The ATM did not dispense cash even though my account was debited. Please help me resolve this.",ATM Issue,ATM Issue__0
+"Hello, Every time I try to log in it says session expired. Kindly look into this urgently.",Login / Account Access,Login / Account Access__10
+"Respected Sir, Push notifications from the banking app have stopped working.",Mobile Banking / App Issue,Mobile Banking / App Issue__11
+"Respected Sir, Can someone clarify why $50 was deducted as a service charge? Please help me resolve this.",Charges / Fees,Charges / Fees__12
+"Good morning, Something is wrong with my recurring payment setup.",Payment Issue,Payment Issue__16
+"Hi team, I need to update my address on file with the bank.",Account Services,Account Services__2
+"Respected Sir, I noticed a duplicate debit entry yesterday for the same bill. Kindly look into this urgently.",Duplicate Transaction,Duplicate Transaction__14
+Every time I try to log in it says session expired. I would appreciate a quick response.,Login / Account Access,Login / Account Access__10
+There are suspicious withdrawals from my account that I never authorised.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__2
+"Respected Sir, The ATM printed a receipt but no cash came out.",ATM Issue,ATM Issue__13
+"Hello there, I got double debited for a single purchase I made this morning. Please escalate this if needed.",Duplicate Transaction,Duplicate Transaction__2
+How do I update my KYC documents? Can someone from the bank contact me?,Account Services,Account Services__8
+"Hello, The app won't let me log in even with the correct password.",Login / Account Access,Login / Account Access__16
+"Dear Sir/Madam, Can I get my passbook updated with recent transactions?",Account Services,Account Services__10
+"Hello, Payment gateway error occurred while I was paying my electricity bill.",Payment Issue,Payment Issue__8
+"Respected Sir, The chargeback I requested hasn't been credited to my account. I need this fixed quickly.",Refund / Reversal,Refund / Reversal__10
+The fund transfer I initiated just now shows as failed. Can someone from the bank contact me?,Failed Transaction,Failed Transaction__5
+"Good morning, My card got stuck inside the machine at the MG Road ATM. This is really frustrating.",ATM Issue,ATM Issue__5
+"Hi, The transaction failed but money was deducted from my account.",Failed Transaction,Failed Transaction__0
+"Hello, I keep getting error messages when I try to update my profile in the app. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__13
+How do I update my KYC documents? I would appreciate a quick response.,Account Services,Account Services__8
+I need to change the name on my account after marriage. Please advise on the next steps.,Account Services,Account Services__9
+"Dear Sir/Madam, The merchant confirmed my refund but it's not in my account. This is really frustrating.",Refund / Reversal,Refund / Reversal__6
+My credit card got blocked without any notification. Kindly look into this urgently.,Card Issue,Card Issue__2
+"Hi, Can you explain this maintenance charge deducted last night?",Charges / Fees,Charges / Fees__3
+"Hello, The QR code payment I did two days ago isn't reflecting anywhere. pls advise on the next steps.",Payment Issue,Payment Issue__11
+"Hi team, I can't view my accont balance on the app.",Mobile Banking / App Issue,Mobile Banking / App Issue__2
+Can you explain this maintenance charge deducted just now? Please help me resolve this.,Charges / Fees,Charges / Fees__3
+Push notifications from the banking app have stopped working. Kindly look into this urgently.,Mobile Banking / App Issue,Mobile Banking / App Issue__11
+"Dear Sir/Madam, The machine retained my card at the Koramangala branch. This is really frustrating.",ATM Issue,ATM Issue__1
+I paid my credit card bill but it's not reflecting in the account. Please escalate this if needed.,Payment Issue,Payment Issue__18
+"Dear Sir/Madam, Can you help me unblock my card? It got locked after a few wrong PIN attempts.",Card Issue,Card Issue__10
+"Hi, My new card hasn't arrived yet even though it was issued weeks ago.",Card Issue,Card Issue__5
+The refund for my failed transaction is taking too long. Please help me resolve this.,Refund / Reversal,Refund / Reversal__3
+I noticed a duplicate debit entry this morning for the same bill. I would appreciate a quick response.,Duplicate Transaction,Duplicate Transaction__14
+"Hi, My card was used online for a purchase I never made. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__8
+I have a problem with my loan repayment schedule. Please help me resolve this.,Loan / EMI,Loan / EMI__1
+"Hello, I need help setting up a standing instruction for rent payment. Please help me resolve this.",Account Services,Account Services__13
+"Hi team, I can't access my account even after resetting the password. Please escalate this if needed.",Login / Account Access,Login / Account Access__5
+"Hello, I need clarification on the remaining tenure of my loan.",Loan / EMI,Loan / EMI__13
+"Hello, Can you assist me in closing my old account? Please advise on the next steps.",Account Services,Account Services__5
+"Respected Sir, My transfer to another bank failed halfway through the process. Please escalate this if needed.",Failed Transaction,Failed Transaction__16
+"Hi team, Someone accessed my net banking account without my knowledge.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__6
+"Hello, I can't seem to reset my MPIN for the banking portal.",Login / Account Access,Login / Account Access__14
+I noticed a transaction that I did not make.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__0
+I made a payment through Paytm but something went wrong. Please escalate this if needed.,Payment Issue,Payment Issue__0
+Why did my transfer fail when I had sufficient balence? Please advise on the next steps.,Failed Transaction,Failed Transaction__7
+"Hello there, I was charged twice for the same payment. Please help me resolve this.",Duplicate Transaction,Duplicate Transaction__0
+"Good morning, I'm unable to sign in through the app no matter how many times I try. Please resolve this as soon as possible.",Mobile Banking / App Issue,Mobile Banking / App Issue__16
+"Dear Sir/Madam, My accont was compromised and money is missing.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__14
+I'm getting a 'server not responding' error on the mobile app.,Mobile Banking / App Issue,Mobile Banking / App Issue__6
+"Hello there, My card was declined at a store even though I had enough balance. Kindly look into this urgently.",Card Issue,Card Issue__7
+I think I've been a victim of a phishing scam involving my bank account. Please advise on the next steps.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__13
+"There are two identical charges of Rs. 10,000 on my account.",Duplicate Transaction,Duplicate Transaction__3
+"Hello there, My cancelled order refund is still pending after two weeks. pls resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__5
+"Respected Sir, The auto-debit for my car loan EMI failed even though I had funds. I would appreciate a quick response.",Loan / EMI,Loan / EMI__12
+Refund status shows processed but I don't see the money. Can someone from the bank contact me?,Refund / Reversal,Refund / Reversal__8
+"Hi, I need to request a replacement for my expired card. Please help me resolve this.",Card Issue,Card Issue__8
+"Hello, My account shows charges from a location I've never visited.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__3
+"Hi team, I attempted a paymnet on Monday and got a weird error code. This is really frustrating.",Payment Issue,Payment Issue__9
+"Hello, I'm locked out of my account after too many failed login attempts.",Login / Account Access,Login / Account Access__3
+I lost my card two days ago and need to block it immediately.,Card Issue,Card Issue__4
+I received an OTP for a transction I never initiated.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__7
+The latest app update broke the fund transfer feature. Please escalate this if needed.,Mobile Banking / App Issue,Mobile Banking / App Issue__10
+"Hello there, The chip on my debit card seems to be damaged. I would appreciate a quick response.",Card Issue,Card Issue__6
+"Hello, I was charged Rs. 99 for falling below the minimum balence. Please resolve this as soon as possible.",Charges / Fees,Charges / Fees__7
+The app logs me out automatically every few minutes. This has been going on for days now.,Mobile Banking / App Issue,Mobile Banking / App Issue__8
+"Hello there, There's unauthorized activity on my account that I need investigated urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__10
+"Good morning, I cannot log into the mobile banking application. This has been going on for days now.",Mobile Banking / App Issue,Mobile Banking / App Issue__15
+The ATM screen froze after I entered my PIN yesterday. This has been going on for days now.,ATM Issue,ATM Issue__4
+"Dear Sir/Madam, I inserted my card and the ATM shut down without returning it. I need this fixed quickly.",ATM Issue,ATM Issue__10
+"Good morning, I sent money to a friend and it failed, but the amount is gone. I need this fixed quickly.",Failed Transaction,Failed Transaction__9
+The interest rate applied to my loan seems wrong. I would appreciate a quick response.,Loan / EMI,Loan / EMI__2
+"An unknown transaction of Rs. 15,000 appeared on my statement. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__5
+"Respected Sir, My account got locked and I don't know how to unlock it. Please help me resolve this.",Login / Account Access,Login / Account Access__8
+"Hello, Cash was not received but my account shows a debit of Rs. 10,000. Please escalate this if needed.",ATM Issue,ATM Issue__2
+My card got stuck inside the machine at the Koramangala branch. Kindly look into this urgently.,ATM Issue,ATM Issue__5
+"Respected Sir, I can't view my account balance on the app. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__2
+The amount debited during a failed transaction was never reversed. This is really frustrating.,Refund / Reversal,Refund / Reversal__13
+"Hi, There are suspicious withdrawals from my account that I never authorised. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__2
+"Good morning, I missed an EMI payment and want to know the penalty involved. Can someone from the bank contact me?",Loan / EMI,Loan / EMI__9
+"Hi, I cancelled a subscription and I'm still waiting for the refund. Can someone from the bank contact me?",Refund / Reversal,Refund / Reversal__9
+"Good morning, My card details seem to have stopped working online.",Card Issue,Card Issue__11
+I'm unable to sign in through the app no matter how many times I try. I would appreciate a quick response.,Mobile Banking / App Issue,Mobile Banking / App Issue__16
+"Good morning, I need an update on the reversal for my failed credit card payment. pls escalate this if needed.",Refund / Reversal,Refund / Reversal__7
+"I got a fraud alert for a transaction of Rs. 3,400 I don't recognise. I need this fixed quickly.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__11
+"Hi team, There's a penalty charge I don't understand on my account. Please escalate this if needed.",Charges / Fees,Charges / Fees__6
+"Hi team, My credit score dropped after a loan payment that I did make on time.",Loan / EMI,Loan / EMI__14
+"Hello there, I think my card details have been stolen and misused.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__4
+I cannot log into my account. I need this fixed quickly.,Login / Account Access,Login / Account Access__0
+The ATM screen froze after I entered my PIN last week. Please escalate this if needed.,ATM Issue,ATM Issue__4
+The login page keeps showing an authentication error. I need this fixed quickly.,Login / Account Access,Login / Account Access__6
+"Hi team, I need to change the name on my accont after marriage. Kindly look into this urgently.",Account Services,Account Services__9
+The net banking portal keeps saying invalid credentials.,Login / Account Access,Login / Account Access__2
+"Hi team, Why did my transfer fail when I had sufficient balance? Please advise on the next steps.",Failed Transaction,Failed Transaction__7
+I was promised a reversal of 2000 rupees that hasn't happened yet.,Refund / Reversal,Refund / Reversal__4
+"I was charged Rs. 2,500 for falling below the minimum balance.",Charges / Fees,Charges / Fees__7
+"Hi team, I'm trying to pay a merchant but the payment keeps failing halfway. This is really frustrating.",Payment Issue,Payment Issue__5
+"Good morning, A transaction of Rs. 1,200 failed but the amount is still debited. Please escalate this if needed.",Failed Transaction,Failed Transaction__2
+"Dear Sir/Madam, My EMI was deducted incorrectly this month. Please resolve this as soon as possible.",Loan / EMI,Loan / EMI__0
+"Hello there, This is the second time I've been billed twice for the same order. Can someone from the bank contact me?",Duplicate Transaction,Duplicate Transaction__9
+"Hello, I was charged Rs. 850 for falling below the minimum balence. This is really frustrating.",Charges / Fees,Charges / Fees__7
+I returned a product but haven't received my money back. I need this fixed quickly.,Refund / Reversal,Refund / Reversal__2
+"Good morning, Push notifications from the banking app have stopped working. Kindly look into this urgently.",Mobile Banking / App Issue,Mobile Banking / App Issue__11
+"Hi, Cash was not received but my account shows a debit of Rs. 2,500. I need this fixed quickly.",ATM Issue,ATM Issue__2
+"Hello there, My new card hasn't arrived yet even though it was issued weeks ago. Kindly look into this urgently.",Card Issue,Card Issue__5
+"Respected Sir, My EMI amount changed without any prior notice. Please advise on the next steps.",Loan / EMI,Loan / EMI__3
+"Hello, My card details seem to have stopped working online. Can someone from the bank contact me?",Card Issue,Card Issue__11
+"Hi team, Someone accessed my net banking account without my knowledge. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__6
+"Dear Sir/Madam, The ATM printed a receipt but no cash came out.",ATM Issue,ATM Issue__13
+"Dear Sir/Madam, I scanned a QR code to pay Rs. 500 and nothing happened after that. Kindly look into this urgently.",Payment Issue,Payment Issue__12
+"Good morning, I'm being charged twice a year for a card I don't even use. I would appreciate a quick response.",Charges / Fees,Charges / Fees__13
+"Hello, I made a payment through NEFT but something went wrong. Please help me resolve this.",Payment Issue,Payment Issue__0
+"Hello, Transaction unsuccessful message appeared but the money left my account. This has been going on for days now.",Failed Transaction,Failed Transaction__11
+"Good morning, My EMI was deducted twice this month by mistake. This is really frustrating.",Loan / EMI,Loan / EMI__6
+"Respected Sir, I keep getting 'transaction declined' even though everything looks fine. Kindly look into this urgently.",Failed Transaction,Failed Transaction__14
+"Respected Sir, The bill payment section of the app isn't loading properly.",Mobile Banking / App Issue,Mobile Banking / App Issue__14
+"Hello there, I need to update my address on file with the bank. Can someone from the bank contact me?",Account Services,Account Services__2
+"Good morning, I want to increase my account's transaction limit.",Account Services,Account Services__14
+"Good morning, My card was declined at a store even though I had enough balance. Please escalate this if needed.",Card Issue,Card Issue__7
+"Hi team, I need a foreclosure statement for my home loan. Please escalate this if needed.",Loan / EMI,Loan / EMI__7
+"Hello there, The cash dispenser jammed while I was withdrawing Rs. 850. This is really frustrating.",ATM Issue,ATM Issue__11
+"Respected Sir, I need a copy of my account statement for the last six months. Kindly look into this urgently.",Account Services,Account Services__6
+I need to request a replacement for my expired card. I need this fixed quickly.,Card Issue,Card Issue__8
+"Hi team, I lost my card yesterday and need to block it immediatly. This has been going on for days now.",Card Issue,Card Issue__4
+"Good morning, I paid 2000 rupees but the receiver says they never got it. This has been going on for days now.",Payment Issue,Payment Issue__7
+"Hi team, I think I've been a victim of a phishing scam involving my bank account.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__13
+"Hello, I need clarification on the remaining tenure of my loan. pls advise on the next steps.",Loan / EMI,Loan / EMI__13
+"Hi, The chargeback I requested hasn't been credited to my accont. Please help me resolve this.",Refund / Reversal,Refund / Reversal__10
+"Hi, My accont got locked and I don't know how to unlock it. I would appreciate a quick response.",Login / Account Access,Login / Account Access__8
+"I sent money to a friend and it failed, but the amount is gone. Please advise on the next steps.",Failed Transaction,Failed Transaction__9
+"Hi team, I see the same amount deducted twice within a few minutes. Please advise on the next steps.",Duplicate Transaction,Duplicate Transaction__7
+"Dear Sir/Madam, I can't view my account balance on the app. Please escalate this if needed.",Mobile Banking / App Issue,Mobile Banking / App Issue__2
+"Hi team, The amount debited during a failed transaction was never reversed. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__13
+I suspect someone has cloned my debit card. Please advise on the next steps.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__9
+I want to know why my reversal request is still pending. Can someone from the bank contact me?,Refund / Reversal,Refund / Reversal__12
+"Hello, The fingerprint login on the app suddenly stopped working. Can someone from the bank contact me?",Mobile Banking / App Issue,Mobile Banking / App Issue__7
+"Good morning, The ATM gave an error but still deducted Rs. 500 from my balance. This is really frustrating.",ATM Issue,ATM Issue__7
+"Dear Sir/Madam, I changed my password but now neither the old nor new one works. Kindly look into this urgently.",Login / Account Access,Login / Account Access__11
+"Hi team, The ATM did not dispense cash even though my account was debited. Please advise on the next steps.",ATM Issue,ATM Issue__0
+"Hi team, The magnetic strip on my card is not being read properly. This has been going on for days now.",Card Issue,Card Issue__12
+"Respected Sir, Why do I see a processing fee for a free transaction?",Charges / Fees,Charges / Fees__9
+"Respected Sir, I'm unable to log in using my registered mobile number. I need this fixed quickly.",Login / Account Access,Login / Account Access__9
+I attempted a payment yesterday and got a weird error code.,Payment Issue,Payment Issue__9
+"Dear Sir/Madam, I was charged Rs. 10,000 for falling below the minimum balence.",Charges / Fees,Charges / Fees__7
+"Respected Sir, I got a fraud alert for a transction of $50 I don't recognise. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__11
+The mobile banking application is not loading. I need this fixed quickly.,Mobile Banking / App Issue,Mobile Banking / App Issue__1
+My Paytm transfer failed and I didn't get my money back. I need this fixed quickly.,Failed Transaction,Failed Transaction__1
+"Hi, Why was I charged a transaction fee? I need this fixed quickly.",Charges / Fees,Charges / Fees__0
+My cancelled order refund is still pending after two weeks.,Refund / Reversal,Refund / Reversal__5
+"Dear Sir/Madam, My withdrawal of $50 at an ATM outside the mall was not successful but money is deducted.",ATM Issue,ATM Issue__14
+"Hi, The merchant charged me two times for a single transaction.",Duplicate Transaction,Duplicate Transaction__13
+"Good morning, I have a problem with my loan repayment schedule. I would appreciate a quick response.",Loan / EMI,Loan / EMI__1
+My EMI was deduted incorrectly this month.,Loan / EMI,Loan / EMI__0
+"Good morning, The payment I made on Monday seems to be stuck in processing. Please resolve this as soon as possible.",Payment Issue,Payment Issue__3
+"Hi, I keep getting error messages when I try to update my profile in the app.",Mobile Banking / App Issue,Mobile Banking / App Issue__13
+"Hi team, My loan applicaton status hasn't been updated in weeks. Kindly look into this urgently.",Loan / EMI,Loan / EMI__10
+"Dear Sir/Madam, I think I've been a victim of a phishing scam involving my bank accont. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__13
+I received an OTP for a transction I never initiated. Please resolve this as soon as possible.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__7
+"Hi team, Can you explain this maintenance charge deducted this morning? Please escalate this if needed.",Charges / Fees,Charges / Fees__3
+"Good morning, No cash came out of the machine, yet the SMS shows a debit. This has been going on for days now.",ATM Issue,ATM Issue__8
+"Good morning, The bill paymnet I scheduled did not go through as expected. Can someone from the bank contact me?",Payment Issue,Payment Issue__14
+"Dear Sir/Madam, The app's login screen just keeps spinning and never lets me in. This is really frustrating.",Mobile Banking / App Issue,Mobile Banking / App Issue__18
+"Hi team, I noticed a transction that I did not make. This has been going on for days now.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__0
+"Hi, My bill payment got processed twice by mistake. Please advise on the next steps.",Duplicate Transaction,Duplicate Transaction__10
+The merchant charged me two times for a single transaction. Please resolve this as soon as possible.,Duplicate Transaction,Duplicate Transaction__13
+"Good morning, I paid Rs. 1,200 but the receiver says they never got it. Kindly look into this urgently.",Payment Issue,Payment Issue__7
+"Hello there, I want to update my accont details. I would appreciate a quick response.",Account Services,Account Services__0
+I want an explanation for the late payment fee applied to my card.,Charges / Fees,Charges / Fees__10
+"Hello there, The app freezes every time I try to make a transfer. pls resolve this as soon as possible.",Mobile Banking / App Issue,Mobile Banking / App Issue__3
+The app won't let me log in even with the correct password. I would appreciate a quick response.,Login / Account Access,Login / Account Access__16
+"Respected Sir, No cash came out of the machine, yet the SMS shows a debit. I would appreciate a quick response.",ATM Issue,ATM Issue__8
+"Hi, The interest rate applied to my loan seems wrong.",Loan / EMI,Loan / EMI__2
+"Respected Sir, My card was declined at a store even though I had enough balance.",Card Issue,Card Issue__7
+I want to upgrade my debit card to a different type.,Card Issue,Card Issue__13
+"Respected Sir, My card is showing as inactive even though I never deactivated it. This has been going on for days now.",Card Issue,Card Issue__9
+"Hello, The mobile banking application is not loading. Please advise on the next steps.",Mobile Banking / App Issue,Mobile Banking / App Issue__1
+"Hi team, My OTP for login never arrives on my phone. I would appreciate a quick response.",Login / Account Access,Login / Account Access__4
+"Hello there, I want to upgrade my debit card to a different type. This has been going on for days now.",Card Issue,Card Issue__13
+My EMI was deduted twice this month by mistake. I need this fixed quickly.,Loan / EMI,Loan / EMI__6
+"Good morning, I'm being charged twice a year for a card I don't even use. pls resolve this as soon as possible.",Charges / Fees,Charges / Fees__13
+"Hello there, Every time I open the app it asks me to log in again and fails. I would appreciate a quick response.",Mobile Banking / App Issue,Mobile Banking / App Issue__17
+"Hello there, The system says my transaction timed out and failed.",Failed Transaction,Failed Transaction__12
+I want to increase my account's transaction limit. This has been going on for days now.,Account Services,Account Services__14
+I tried withdrawing money at the branch near my office and the ATM went out of order mid-transaction. pls resolve this as soon as possible.,ATM Issue,ATM Issue__3
+I cancelled a subscription and I'm still waiting for the refund. Please help me resolve this.,Refund / Reversal,Refund / Reversal__9
+"Dear Sir/Madam, I need a copy of my account statement for the last six months. Please escalate this if needed.",Account Services,Account Services__6
+"Hi, I cancelled a subscription and I'm still waiting for the refund. Please escalate this if needed.",Refund / Reversal,Refund / Reversal__9
+I noticed a duplicate debit entry earlier today for the same bill. Kindly look into this urgently.,Duplicate Transaction,Duplicate Transaction__14
+"Hello there, There's a repeated transction of Rs. 99 that I never authorised twice. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__12
+I want to upgrade my debit card to a different type. Please resolve this as soon as possible.,Card Issue,Card Issue__13
+"Hello, My debit card is not working at any store. Can someone from the bank contact me?",Card Issue,Card Issue__0
+"Good morning, My refund of Rs. 10,000 was supposed to arrive within 5-7 days but hasn't. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__11
+Something is wrong with my recurring payment setup.,Payment Issue,Payment Issue__16
+"Dear Sir/Madam, I want to update my account details. Kindly look into this urgently.",Account Services,Account Services__0
+"Hello there, My cancelled order refnd is still pending after two weeks.",Refund / Reversal,Refund / Reversal__5
+"Respected Sir, One purchase resulted in two separate charges on my card. Please resolve this as soon as possible.",Duplicate Transaction,Duplicate Transaction__8
+My card is showing as inactive even though I never deactivated it.,Card Issue,Card Issue__9
+"Good morning, Payment gateway error occurred while I was paying my electricity bill. Please help me resolve this.",Payment Issue,Payment Issue__8
+"Hi, The fund transfer I initiated yesterday shows as failed. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__5
+My transaction failed at the branch but the balance still shows deducted. Please escalate this if needed.,Failed Transaction,Failed Transaction__6
+"Dear Sir/Madam, I noticed a hidden fee of 2000 rupees that I never agreed to. This has been going on for days now.",Charges / Fees,Charges / Fees__4
+"Hello, The transaction failed but money was deducted from my account. This is really frustrating.",Failed Transaction,Failed Transaction__0
+"Hello there, My card was used online for a purchase I never made. Please escalate this if needed.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__8
+"Hi, I forgot my banking password and can't reset it. Please advise on the next steps.",Login / Account Access,Login / Account Access__1
+"Dear Sir/Madam, My new card hasn't arrived yet even though it was issued weeks ago. Please escalate this if needed.",Card Issue,Card Issue__5
+"Dear Sir/Madam, My card details seem to have stopped working online. This is really frustrating.",Card Issue,Card Issue__11
+"Hi, My card was declined at a store even though I had enough balance.",Card Issue,Card Issue__7
+"Hello there, I got double debited for a single purchase I made last night. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__2
+"Hi team, Someone accessed my net banking account without my knowledge. I would appreciate a quick response.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__6
+"Hello there, A transaction of Rs. 10,000 failed but the amount is still debited.",Failed Transaction,Failed Transaction__2
+"Hi, The payment I made earlier today seems to be stuck in processing. Can someone from the bank contact me?",Payment Issue,Payment Issue__3
+"Hello there, Please help me change my email address linked to my account.",Account Services,Account Services__3
+"Dear Sir/Madam, The magnetic strip on my card is not being read properly. I need this fixed quickly.",Card Issue,Card Issue__12
+I need an update on the reversal for my failed the mobile app payment. pls advise on the next steps.,Refund / Reversal,Refund / Reversal__7
+"Respected Sir, The machine retained my card at the branch near my office. This has been going on for days now.",ATM Issue,ATM Issue__1
+I noticed a transaction that I did not make. Please help me resolve this.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__0
+"Hi, I want to prepay my personal loan but don't know the process. Kindly look into this urgently.",Loan / EMI,Loan / EMI__4
+"Respected Sir, I tried withdrawing money at my nearest branch and the ATM went out of order mid-transaction.",ATM Issue,ATM Issue__3
+"Good morning, Can you assist me in closing my old account? Please escalate this if needed.",Account Services,Account Services__5
+I can't download my e-statement from the mobile app. I need this fixed quickly.,Mobile Banking / App Issue,Mobile Banking / App Issue__9
+"Dear Sir/Madam, Can someone clarify why Rs. 1,200 was deducted as a service charge? Can someone from the bank contact me?",Charges / Fees,Charges / Fees__12
+"Hi, Someone has used my card without permission. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__1
+I have a problem with my loan repayment schedule. I would appreciate a quick response.,Loan / EMI,Loan / EMI__1
+I want an explanation for the late paymnet fee applied to my card. I would appreciate a quick response.,Charges / Fees,Charges / Fees__10
+I tried paying my bill using net banking and it did not go through properly. I need this fixed quickly.,Payment Issue,Payment Issue__2
+"Hello there, The security question I set up isn't being accepted. Please advise on the next steps.",Login / Account Access,Login / Account Access__12
+"Hello, No cash came out of the machine, yet the SMS shows a debit. I would appreciate a quick response.",ATM Issue,ATM Issue__8
+"Respected Sir, The ATM did not dispense cash even though my account was debited. This is really frustrating.",ATM Issue,ATM Issue__0
+"Dear Sir/Madam, I received an OTP for a transaction I never initiated. I need this fixed quickly.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__7
+"Good morning, My withdrawal of Rs. 15,000 at the Koramangala branch was not successful but money is deducted. Please advise on the next steps.",ATM Issue,ATM Issue__14
+"Hi team, The ATM at the branch was out of service but still processed my request.",ATM Issue,ATM Issue__9
+My Paytm payment shows as pending for over an hour now. pls resolve this as soon as possible.,Payment Issue,Payment Issue__6
+"Good morning, My transaction failed at an ATM outside the mall but the balance still shows deducted. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__6
+Why has my EMI increased suddenly without explanation? I need this fixed quickly.,Loan / EMI,Loan / EMI__8
+"Hello there, I need to request a replacement for my expired card. This is really frustrating.",Card Issue,Card Issue__8
+"Respected Sir, My paymnet of 2000 rupees is not showing correctly in my statement. Please resolve this as soon as possible.",Payment Issue,Payment Issue__1
+"Dear Sir/Madam, A payment attempt failed but I still see a debit entry. I would appreciate a quick response.",Failed Transaction,Failed Transaction__15
+I want to restructure my existing loan due to financial hardship.,Loan / EMI,Loan / EMI__11
+"Hi team, I was promised a reversal of Rs. 850 that hasn't happened yet. Please escalate this if needed.",Refund / Reversal,Refund / Reversal__4
+"Hi, My payment of Rs. 850 is not showing correctly in my statement. Can someone from the bank contact me?",Payment Issue,Payment Issue__1
+"Hi, The fingerprint login on the app suddenly stopped working. Please help me resolve this.",Mobile Banking / App Issue,Mobile Banking / App Issue__7
+"Respected Sir, My account shows charges from a location I've never visited. I need this fixed quickly.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__3
+"Dear Sir/Madam, I see the same amount deducted twice within a few minutes.",Duplicate Transaction,Duplicate Transaction__7
+I tried withdrawing money at the branch and the ATM went out of order mid-transaction.,ATM Issue,ATM Issue__3
+"Hi, I need help setting up a standing instruction for rent payment. Kindly look into this urgently.",Account Services,Account Services__13
+"Respected Sir, The login page keeps showing an authentication error. pls advise on the next steps.",Login / Account Access,Login / Account Access__6
+"Hello there, There are two identical charges of Rs. 15,000 on my account. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__3
+"Dear Sir/Madam, I got double debited for a single purchase I made this morning. Please advise on the next steps.",Duplicate Transaction,Duplicate Transaction__2
+"Good morning, My cancelled transaction has not been refunded. Please advise on the next steps.",Refund / Reversal,Refund / Reversal__0
+I suspect someone has cloned my debit card.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__9
+"Hi, I can't seem to reset my MPIN for the banking portal. I would appreciate a quick response.",Login / Account Access,Login / Account Access__14
+Why was I charged a transction fee?,Charges / Fees,Charges / Fees__0
+"Hi, I'm unable to sign in through the app no matter how many times I try. Please resolve this as soon as possible.",Mobile Banking / App Issue,Mobile Banking / App Issue__16
+"Hi, I tried transferring money and it failed midway through. This has been going on for days now.",Failed Transaction,Failed Transaction__4
+The app is stuck on the loading screen and won't open. This has been going on for days now.,Mobile Banking / App Issue,Mobile Banking / App Issue__5
+"Good morning, My the mobile app request failed on Monday without any explanation.",Failed Transaction,Failed Transaction__13
+"Respected Sir, My transaction failed at the branch but the balance still shows deducted. Please help me resolve this.",Failed Transaction,Failed Transaction__6
+I need a copy of my accont statement for the last six months. This is really frustrating.,Account Services,Account Services__6
+"Hi team, I want to restructure my existing loan due to financial hardship. This is really frustrating.",Loan / EMI,Loan / EMI__11
+"Hello there, Please help me convert my savings account to a salary accont. Can someone from the bank contact me?",Account Services,Account Services__12
+"Hi, My card is showing as inactive even though I never deactivated it. This is really frustrating.",Card Issue,Card Issue__9
+"Hi team, The same transaction of 500 rupees appears two times in my statement.",Duplicate Transaction,Duplicate Transaction__1
+"Hi, I missed an EMI payment and want to know the penalty involved. Can someone from the bank contact me?",Loan / EMI,Loan / EMI__9
+"Hello, I was promised a reversal of Rs. 3,400 that hasn't happened yet. Please help me resolve this.",Refund / Reversal,Refund / Reversal__4
+I'm unable to log in using my registered mobile number.,Login / Account Access,Login / Account Access__9
+"Dear Sir/Madam, When will I receive my refund? I need this fixed quickly.",Refund / Reversal,Refund / Reversal__1
+My account shows charges from a location I've never visited.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__3
+"Hello, I need to report a damaged card.",Card Issue,Card Issue__1
+"Good morning, One purchase resulted in two separate charges on my card. I would appreciate a quick response.",Duplicate Transaction,Duplicate Transaction__8
+"Good morning, I want to know why my reversal request is still pending.",Refund / Reversal,Refund / Reversal__12
+"Good morning, I want to open a new fixed deposit account. Please help me resolve this.",Account Services,Account Services__7
+"Good morning, The card reader keeps rejecting my card everywhere I try. Can someone from the bank contact me?",Card Issue,Card Issue__3
+"Dear Sir/Madam, Refund status shows processed but I don't see the money. I need this fixed quickly.",Refund / Reversal,Refund / Reversal__8
+I cannot log into the mobile banking application. This has been going on for days now.,Mobile Banking / App Issue,Mobile Banking / App Issue__15
+There's a penalty charge I don't understand on my account. Please resolve this as soon as possible.,Charges / Fees,Charges / Fees__6
+"Hi team, I can't access my account even after resetting the password.",Login / Account Access,Login / Account Access__5
+I only swiped my card once but was charged for it twice.,Duplicate Transaction,Duplicate Transaction__11
+The security question I set up isn't being accepted. pls advise on the next steps.,Login / Account Access,Login / Account Access__12
+"Respected Sir, I can't download my e-statement from the mobile app. This has been going on for days now.",Mobile Banking / App Issue,Mobile Banking / App Issue__9
+"Good morning, I want to prepay my personal loan but don't know the process. Please help me resolve this.",Loan / EMI,Loan / EMI__4
+I was charged twice for the same payment. This is really frustrating.,Duplicate Transaction,Duplicate Transaction__0
+"Hello, My card was swallowed by the machine and hasn't been returned. Please escalate this if needed.",Card Issue,Card Issue__14
+"Good morning, My credit score dropped after a loan payment that I did make on time. Please resolve this as soon as possible.",Loan / EMI,Loan / EMI__14
+"Dear Sir/Madam, I changed my password but now neither the old nor new one works. Please advise on the next steps.",Login / Account Access,Login / Account Access__11
+"Hi team, My rent payment through UPI got stuck midway. Please escalate this if needed.",Payment Issue,Payment Issue__19
+"Hello there, The fund transfer I initiated just now shows as failed.",Failed Transaction,Failed Transaction__5
+My transaction got declined last week for no clear reason. I need this fixed quickly.,Failed Transaction,Failed Transaction__3
+"Hi, The app shows outdated transaction history that hasn't refreshed in days.",Mobile Banking / App Issue,Mobile Banking / App Issue__12
+"Hello, There's a penalty charge I don't understand on my account. Can someone from the bank contact me?",Charges / Fees,Charges / Fees__6
+"Hi team, The machine retained my card at an ATM outside the mall.",ATM Issue,ATM Issue__1
+"Respected Sir, I'm being charged twice a year for a card I don't even use. Please escalate this if needed.",Charges / Fees,Charges / Fees__13
+How can I change my registered mobile number? This has been going on for days now.,Account Services,Account Services__1
+I see the same amount deducted twice within a few minutes. Please escalate this if needed.,Duplicate Transaction,Duplicate Transaction__7
+I want to update my account details. Please advise on the next steps.,Account Services,Account Services__0
+"Hi, The merchant charged me two times for a single transaction. Please help me resolve this.",Duplicate Transaction,Duplicate Transaction__13
+"Respected Sir, I'm trying to pay a merchant but the payment keeps failing halfway. Please resolve this as soon as possible.",Payment Issue,Payment Issue__5
+"Respected Sir, Please help me convert my savings account to a salary account.",Account Services,Account Services__12
+"Dear Sir/Madam, The banking app keeps crashing. Please help me resolve this.",Mobile Banking / App Issue,Mobile Banking / App Issue__0
+"Dear Sir/Madam, There's unauthorized activity on my accont that I need investigated urgently. This has been going on for days now.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__10
+I want to restructure my existing loan due to financial hardship. pls resolve this as soon as possible.,Loan / EMI,Loan / EMI__11
+"Good morning, I got a fraud alert for a transaction of Rs. 1,200 I don't recognise. Please escalate this if needed.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__11
+I noticed a duplicate debit entry yesterday for the same bill.,Duplicate Transaction,Duplicate Transaction__14
+"Respected Sir, The refund for my failed transaction is taking too long.",Refund / Reversal,Refund / Reversal__3
+"Good morning, The bill payment section of the app isn't loading properly.",Mobile Banking / App Issue,Mobile Banking / App Issue__14
+I'm getting a 'server not responding' error on the mobile app. Can someone from the bank contact me?,Mobile Banking / App Issue,Mobile Banking / App Issue__6
+There's a charge on my account that doesn't match any purchase I made. This has been going on for days now.,Charges / Fees,Charges / Fees__11
+"Good morning, Can I get my passbook updated with recent transactions? pls advise on the next steps.",Account Services,Account Services__10
+"Hello there, I only made one payment but two deductions happened. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__5
+"Hi, Can someone clarify why Rs. 3,400 was deducted as a service charge? This has been going on for days now.",Charges / Fees,Charges / Fees__12
+"Good morning, When will I receive my refund? This is really frustrating.",Refund / Reversal,Refund / Reversal__1
+"Respected Sir, The chip on my debit card seems to be damaged. I would appreciate a quick response.",Card Issue,Card Issue__6
+Please help me convert my savings account to a salary account.,Account Services,Account Services__12
+"Hello there, I was charged twice for the same paymnet.",Duplicate Transaction,Duplicate Transaction__0
+How do I update my KYC documents? Please help me resolve this.,Account Services,Account Services__8
+"Respected Sir, The magnetic strip on my card is not being read properly. I would appreciate a quick response.",Card Issue,Card Issue__12
+"Respected Sir, I need to report a damaged card. I need this fixed quickly.",Card Issue,Card Issue__1
+"Hello there, The login page keeps showing an authentication error. I need this fixed quickly.",Login / Account Access,Login / Account Access__6
+"Hi, How can I change my registered mobile number? Kindly look into this urgently.",Account Services,Account Services__1
+"Hi team, The card reader keeps rejecting my card everywhere I try. pls resolve this as soon as possible.",Card Issue,Card Issue__3
+"Hi team, This is the second time I've been billed twice for the same order. Can someone from the bank contact me?",Duplicate Transaction,Duplicate Transaction__9
+"Good morning, The app shows outdated transaction history that hasn't refreshed in days. I would appreciate a quick response.",Mobile Banking / App Issue,Mobile Banking / App Issue__12
+"Hello there, There's a charge on my account that doesn't match any purchase I made. I need this fixed quickly.",Charges / Fees,Charges / Fees__11
+"Dear Sir/Madam, Every time I open the app it asks me to log in again and fails. Please resolve this as soon as possible.",Mobile Banking / App Issue,Mobile Banking / App Issue__17
+I missed an EMI paymnet and want to know the penalty involved. Can someone from the bank contact me?,Loan / EMI,Loan / EMI__9
+"Dear Sir/Madam, My OTP for login never arrives on my phone. This is really frustrating.",Login / Account Access,Login / Account Access__4
+The amount debited during a failed transaction was never reversed. I would appreciate a quick response.,Refund / Reversal,Refund / Reversal__13
+"Hi team, Why was I charged a transaction fee? Please escalate this if needed.",Charges / Fees,Charges / Fees__0
+"The cash dispenser jammed while I was withdrawing Rs. 1,200. I need this fixed quickly.",ATM Issue,ATM Issue__11
+The payment I made last week seems to be stuck in processing. Please advise on the next steps.,Payment Issue,Payment Issue__3
+"Hello, Please help me change my email address linked to my account.",Account Services,Account Services__3
+"Hi team, I need help setting up a standing instruction for rent payment.",Account Services,Account Services__13
+"Good morning, The fund transfer I initiated a few minutes ago shows as failed. This is really frustrating.",Failed Transaction,Failed Transaction__5
+"Hi, I need a foreclosure statement for my home loan. Please advise on the next steps.",Loan / EMI,Loan / EMI__7
+"Good morning, My rent payment through the mobile app got stuck midway. This has been going on for days now.",Payment Issue,Payment Issue__19
+"Hi team, There's a penalty charge I don't understand on my account. I would appreciate a quick response.",Charges / Fees,Charges / Fees__6
+"Hello, I noticed a hidden fee of Rs. 500 that I never agreed to.",Charges / Fees,Charges / Fees__4
+"Dear Sir/Madam, The mobile banking application is not loading. I would appreciate a quick response.",Mobile Banking / App Issue,Mobile Banking / App Issue__1
+Can you help me unblock my card? It got locked after a few wrong PIN attempts. I need this fixed quickly.,Card Issue,Card Issue__10
+"Respected Sir, My loan application status hasn't been updated in weeks. Please resolve this as soon as possible.",Loan / EMI,Loan / EMI__10
+I tried paying my bill using IMPS and it did not go through properly.,Payment Issue,Payment Issue__2
+My fingerprint login stopped working on the app. Please resolve this as soon as possible.,Login / Account Access,Login / Account Access__13
+I need to update my address on file with the bank. Please escalate this if needed.,Account Services,Account Services__2
+"Hello, I'm getting a 'server not responding' error on the mobile app. Please escalate this if needed.",Mobile Banking / App Issue,Mobile Banking / App Issue__6
+The auto-debit for my car loan EMI failed even though I had funds. Kindly look into this urgently.,Loan / EMI,Loan / EMI__12
+"Hi, My card was declined at a store even though I had enough balance. Please escalate this if needed.",Card Issue,Card Issue__7
+"Hello, The merchant confirmed my refund but it's not in my account. I would appreciate a quick response.",Refund / Reversal,Refund / Reversal__6
+I want to update my account details. Please escalate this if needed.,Account Services,Account Services__0
+"Hi, I only swiped my card once but was charged for it twice. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__11
+"Dear Sir/Madam, Payment gateway error occurred while I was paying my electricity bill.",Payment Issue,Payment Issue__8
+"Hello, My bill payment got processed twice by mistake.",Duplicate Transaction,Duplicate Transaction__10
+My EMI amount changed without any prior notice. Please escalate this if needed.,Loan / EMI,Loan / EMI__3
+"Hello, The app is stuck on the loading screen and won't open. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__5
+"Dear Sir/Madam, I need to update my address on file with the bank. Please escalate this if needed.",Account Services,Account Services__2
+I withdrew Rs. 850 but only received partial cash.,ATM Issue,ATM Issue__6
+"Dear Sir/Madam, I'm unable to complete a paymnet even after multiple tries. This is really frustrating.",Payment Issue,Payment Issue__15
+"Hi, I cannot log into my account. This is really frustrating.",Login / Account Access,Login / Account Access__0
+"Dear Sir/Madam, My salary payment seems to have an issue this month. I would appreciate a quick response.",Payment Issue,Payment Issue__13
+I withdrew 500 rupees but only received partial cash. I need this fixed quickly.,ATM Issue,ATM Issue__6
+"Good morning, There's a repeated transaction of Rs. 1,200 that I never authorised twice.",Duplicate Transaction,Duplicate Transaction__12
+"Hi team, There's a repeated transction of $50 that I never authorised twice. I would appreciate a quick response.",Duplicate Transaction,Duplicate Transaction__12
+"Good morning, My loan application status hasn't been updated in weeks. Kindly look into this urgently.",Loan / EMI,Loan / EMI__10
+"Good morning, I need a copy of my account statement for the last six months. I need this fixed quickly.",Account Services,Account Services__6
+"Good morning, I'm being charged twice a year for a card I don't even use. Please escalate this if needed.",Charges / Fees,Charges / Fees__13
+"Hi, My EMI amount changed without any prior notice. Kindly look into this urgently.",Loan / EMI,Loan / EMI__3
+The auto-debit for my car loan EMI failed even though I had funds.,Loan / EMI,Loan / EMI__12
+"Hello, I need an update on the reversal for my failed net banking payment. Please escalate this if needed.",Refund / Reversal,Refund / Reversal__7
+"Hi, How can I change my registered mobile number? Can someone from the bank contact me?",Account Services,Account Services__1
+I want an explanation for the late payment fee applied to my card. Please escalate this if needed.,Charges / Fees,Charges / Fees__10
+"Hello there, I keep getting 'transaction declined' even though everything looks fine. This has been going on for days now.",Failed Transaction,Failed Transaction__14
+"Dear Sir/Madam, I need to change the name on my account after marriage. I would appreciate a quick response.",Account Services,Account Services__9
+"Hi, Transaction unsuccessful message appeared but the money left my account. This has been going on for days now.",Failed Transaction,Failed Transaction__11
+"Dear Sir/Madam, I cannot log into my account. I need this fixed quickly.",Login / Account Access,Login / Account Access__0
+"Good morning, I noticed a transction that I did not make. Please help me resolve this.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__0
+"Hello there, Someone withdrew $200 from my accont without my consent. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__12
+"Hello, I received a debit alert for Rs. 10,000 but the ATM gave me nothing. pls escalate this if needed.",ATM Issue,ATM Issue__12
+"Good morning, I want to restructure my existing loan due to financial hardship. I need this fixed quickly.",Loan / EMI,Loan / EMI__11
+"Hi team, An unknown transaction of 500 rupees appeared on my statement. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__5
+"Hi, I tried withdrawing money at the Koramangala branch and the ATM went out of order mid-transaction. Please escalate this if needed.",ATM Issue,ATM Issue__3
+"Hello, My Paytm payment shows as pending for over an hour now. Please resolve this as soon as possible.",Payment Issue,Payment Issue__6
+"Hello there, My account was debited twice for one PhonePe transaction. Please resolve this as soon as possible.",Duplicate Transaction,Duplicate Transaction__4
+"Dear Sir/Madam, When will I receive my refund? Please advise on the next steps.",Refund / Reversal,Refund / Reversal__1
+My transaction got declined last night for no clear reason.,Failed Transaction,Failed Transaction__3
+"Hello there, I see the same amount deducted twice within a few minutes. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__7
+I need clarification on the remaining tenure of my loan. This is really frustrating.,Loan / EMI,Loan / EMI__13
+"Hi team, My debit card is not working at any store. This has been going on for days now.",Card Issue,Card Issue__0
+"Respected Sir, I want to add a nominee to my savings account.",Account Services,Account Services__4
+My debit card is not working at any store. I would appreciate a quick response.,Card Issue,Card Issue__0
+"Hello there, How can I change my registered mobile number?",Account Services,Account Services__1
+I keep getting error messages when I try to update my profile in the app. I need this fixed quickly.,Mobile Banking / App Issue,Mobile Banking / App Issue__13
+"Respected Sir, I need to report a damaged card. This has been going on for days now.",Card Issue,Card Issue__1
+"Hi team, The interest rate applied to my loan seems wrong. Please escalate this if needed.",Loan / EMI,Loan / EMI__2
+"Hello, My cancelled transaction has not been refunded. This is really frustrating.",Refund / Reversal,Refund / Reversal__0
+"Hello there, Someone accessed my net banking account without my knowledge. Kindly look into this urgently.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__6
+"Hi, There are two identical charges of Rs. 3,400 on my account. pls advise on the next steps.",Duplicate Transaction,Duplicate Transaction__3
+"Hello there, My transfer to another bank failed halfway through the process. Kindly look into this urgently.",Failed Transaction,Failed Transaction__16
+"Hello, Why was I charged a transaction fee? Please help me resolve this.",Charges / Fees,Charges / Fees__0
+"Good morning, There's unauthorized activity on my account that I need investigated urgently. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__10
+"Dear Sir/Madam, Why does my payment status say 'processing' even after a few minutes ago? I would appreciate a quick response.",Payment Issue,Payment Issue__10
+"Hello there, My debit card is not working at any store. This is really frustrating.",Card Issue,Card Issue__0
+"Hi, Duplicate entry of 2000 rupees shows up in my transaction history. Please resolve this as soon as possible.",Duplicate Transaction,Duplicate Transaction__6
+"Hi, My account shows charges from a location I've never visited.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__3
+One purchase resulted in two separate charges on my card. Can someone from the bank contact me?,Duplicate Transaction,Duplicate Transaction__8
+"Hello there, The mobile banking application is not loading. Please advise on the next steps.",Mobile Banking / App Issue,Mobile Banking / App Issue__1
+"Hello there, The banking app keeps crashing. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__0
+"Hello, The fingerprint login on the app suddenly stopped working. Please resolve this as soon as possible.",Mobile Banking / App Issue,Mobile Banking / App Issue__7
+The chip on my debit card seems to be damaged. Please advise on the next steps.,Card Issue,Card Issue__6
+"Hi team, My EMI was deducted twice this month by mistake.",Loan / EMI,Loan / EMI__6
+"Dear Sir/Madam, One purchase resulted in two separate charges on my card. Can someone from the bank contact me?",Duplicate Transaction,Duplicate Transaction__8
+"Dear Sir/Madam, Why do I see a processing fee for a free transaction? Please advise on the next steps.",Charges / Fees,Charges / Fees__9
+"Hi team, An unknown transction of 2000 rupees appeared on my statement. This has been going on for days now.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__5
+"Hello, The same transaction of Rs. 15,000 appears two times in my statement. I need this fixed quickly.",Duplicate Transaction,Duplicate Transaction__1
+The machine retained my card at the Koramangala branch. Can someone from the bank contact me?,ATM Issue,ATM Issue__1
+"Hello there, Transaction unsuccessful message appeared but the money left my account. Kindly look into this urgently.",Failed Transaction,Failed Transaction__11
+I want an explanation for the late payment fee applied to my card. pls resolve this as soon as possible.,Charges / Fees,Charges / Fees__10
+Can I get my passbook updated with recent transactions? This has been going on for days now.,Account Services,Account Services__10
+"Good morning, The magnetic strip on my card is not being read properly. Can someone from the bank contact me?",Card Issue,Card Issue__12
+I noticed a transaction that I did not make. Please escalate this if needed.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__0
+"Good morning, My card is showing as inactive even though I never deactivated it. Please escalate this if needed.",Card Issue,Card Issue__9
+How can I change my registered mobile number? I would appreciate a quick response.,Account Services,Account Services__1
+"Respected Sir, The same transaction of Rs. 2,500 appears two times in my statement. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__1
+"Hi team, I got a fraud alert for a transaction of 500 rupees I don't recognise. Can someone from the bank contact me?",Fraud / Suspicious Activity,Fraud / Suspicious Activity__11
+"Hi, I withdrew Rs. 99 but only received partial cash. Can someone from the bank contact me?",ATM Issue,ATM Issue__6
+"Hello, I want to open a new fixed deposit account. Please help me resolve this.",Account Services,Account Services__7
+The ATM gave an error but still deducted $50 from my balance. Please advise on the next steps.,ATM Issue,ATM Issue__7
+There's a discrepancy in my loan statement regarding the outstanding balance.,Loan / EMI,Loan / EMI__5
+"Respected Sir, I suspect someone has cloned my debit card.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__9
+"Hello, I was billed an annual fee I wasn't informed about.",Charges / Fees,Charges / Fees__2
+"Hi team, I forgot my username for the online banking portal. Kindly look into this urgently.",Login / Account Access,Login / Account Access__7
+My the website transfer failed and I didn't get my money back. Can someone from the bank contact me?,Failed Transaction,Failed Transaction__1
+"Good morning, I was charged twice for the same paymnet. Please resolve this as soon as possible.",Duplicate Transaction,Duplicate Transaction__0
+"Hello there, My EMI amount changed without any prior notice. I would appreciate a quick response.",Loan / EMI,Loan / EMI__3
+"Good morning, My card is showing as inactive even though I never deactivated it. I need this fixed quickly.",Card Issue,Card Issue__9
+"Hello, I was charged twice for the same payment. This is really frustrating.",Duplicate Transaction,Duplicate Transaction__0
+"Respected Sir, My card got stuck inside the machine at the MG Road ATM.",ATM Issue,ATM Issue__5
+The chip on my debit card seems to be damaged. Can someone from the bank contact me?,Card Issue,Card Issue__6
+"Respected Sir, My card was used online for a purchase I never made. Please advise on the next steps.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__8
+"Hello there, Why does my payment status say 'processing' even after last week? Please help me resolve this.",Payment Issue,Payment Issue__10
+The security question I set up isn't being accepted.,Login / Account Access,Login / Account Access__12
+"Dear Sir/Madam, No cash came out of the machine, yet the SMS shows a debit. I need this fixed quickly.",ATM Issue,ATM Issue__8
+"Dear Sir/Madam, The app is stuck on the loading screen and won't open. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__5
+"Hello, There is an issue with a payment I sent via the website.",Payment Issue,Payment Issue__4
+"Good morning, My credit card got blocked without any notification. pls help me resolve this.",Card Issue,Card Issue__2
+"Hello there, I'm getting a 'server not responding' error on the mobile app. Please escalate this if needed.",Mobile Banking / App Issue,Mobile Banking / App Issue__6
+"Hello, The machine retained my card at my nearest branch. Please escalate this if needed.",ATM Issue,ATM Issue__1
+"Hi, My card was swallowed by the machine and hasn't been returned. Please advise on the next steps.",Card Issue,Card Issue__14
+"Hi team, My loan application status hasn't been updated in weeks. I would appreciate a quick response.",Loan / EMI,Loan / EMI__10
+"Hello there, My fingerprint login stopped working on the app. Please help me resolve this.",Login / Account Access,Login / Account Access__13
+Every time I try to log in it says session expired. Kindly look into this urgently.,Login / Account Access,Login / Account Access__10
+"Hello, I can't access my accont even after resetting the password. Please resolve this as soon as possible.",Login / Account Access,Login / Account Access__5
+"Good morning, My cancelled transaction has not been refunded. Please resolve this as soon as possible.",Refund / Reversal,Refund / Reversal__0
+"Hello, I only made one payment but two deductions happened. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__5
+"Good morning, The app shows outdated transaction history that hasn't refreshed in days.",Mobile Banking / App Issue,Mobile Banking / App Issue__12
+"Good morning, There's a charge on my accont that doesn't match any purchase I made. Can someone from the bank contact me?",Charges / Fees,Charges / Fees__11
+"Hello there, I need to report a damaged card. This is really frustrating.",Card Issue,Card Issue__1
+My cancelled order refnd is still pending after two weeks. Kindly look into this urgently.,Refund / Reversal,Refund / Reversal__5
+"Hi team, There's a charge on my account that doesn't match any purchase I made. Please escalate this if needed.",Charges / Fees,Charges / Fees__11
+"Respected Sir, The ATM printed a receipt but no cash came out. Can someone from the bank contact me?",ATM Issue,ATM Issue__13
+I made a payment through net banking but something went wrong. Please advise on the next steps.,Payment Issue,Payment Issue__0
+"Respected Sir, I tried paying my bill using RTGS and it did not go through properly. This is really frustrating.",Payment Issue,Payment Issue__2
+"Hello, The latest app update broke the fund transfer feature. This is really frustrating.",Mobile Banking / App Issue,Mobile Banking / App Issue__10
+I want to add a nominee to my savings account. This is really frustrating.,Account Services,Account Services__4
+This SMS alert charge seems unusually high this month.,Charges / Fees,Charges / Fees__8
+My account was debited twice for one IMPS transaction. I would appreciate a quick response.,Duplicate Transaction,Duplicate Transaction__4
+I only made one payment but two deductions happened. This is really frustrating.,Duplicate Transaction,Duplicate Transaction__5
+"Respected Sir, A transaction of Rs. 3,400 failed but the amount is still debited. Please advise on the next steps.",Failed Transaction,Failed Transaction__2
+I'm being charged twice a year for a card I don't even use. I would appreciate a quick response.,Charges / Fees,Charges / Fees__13
+"Respected Sir, I received an OTP for a transaction I never initiated.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__7
+"Good morning, There's a penalty charge I don't understand on my accont.",Charges / Fees,Charges / Fees__6
+"Hello there, I want to upgrade my debit card to a different type. Please help me resolve this.",Card Issue,Card Issue__13
+"Dear Sir/Madam, My RTGS request failed on Monday without any explanation. Can someone from the bank contact me?",Failed Transaction,Failed Transaction__13
+Can you explain this maintenance charge deducted last night? Please advise on the next steps.,Charges / Fees,Charges / Fees__3
+I can't access my account even after resetting the password. I need this fixed quickly.,Login / Account Access,Login / Account Access__5
+"Hi team, The cash dispenser jammed while I was withdrawing $200. Please escalate this if needed.",ATM Issue,ATM Issue__11
+I changed my password but now neither the old nor new one works. I need this fixed quickly.,Login / Account Access,Login / Account Access__11
+"Good morning, I want to prepay my personal loan but don't know the process.",Loan / EMI,Loan / EMI__4
+"Hi, I lost my card this morning and need to block it immediatly. Can someone from the bank contact me?",Card Issue,Card Issue__4
+"Hello, My rent paymnet through PhonePe got stuck midway. Please resolve this as soon as possible.",Payment Issue,Payment Issue__19
+"Respected Sir, I tried transferring money and it failed midway through. This is really frustrating.",Failed Transaction,Failed Transaction__4
+"Hi team, I forgot my banking password and can't reset it. I would appreciate a quick response.",Login / Account Access,Login / Account Access__1
+"Hi, I have a problem with my loan repayment schedule. This has been going on for days now.",Loan / EMI,Loan / EMI__1
+"Hello, I want to prepay my personal loan but don't know the process. I need this fixed quickly.",Loan / EMI,Loan / EMI__4
+"Good morning, I returned a product but haven't received my money back. Can someone from the bank contact me?",Refund / Reversal,Refund / Reversal__2
+"Dear Sir/Madam, The interest rate applied to my loan seems wrong. This has been going on for days now.",Loan / EMI,Loan / EMI__2
+"Hi team, My fingerprint login stopped working on the app.",Login / Account Access,Login / Account Access__13
+I attempted a payment on Monday and got a weird error code. I would appreciate a quick response.,Payment Issue,Payment Issue__9
+"Hi, Payment gateway error occurred while I was paying my electricity bill.",Payment Issue,Payment Issue__8
+"Hi team, I want to restructure my existing loan due to financial hardship. Can someone from the bank contact me?",Loan / EMI,Loan / EMI__11
+Please help me convert my savings account to a salary account. pls escalate this if needed.,Account Services,Account Services__12
+"Hello there, The bill payment I scheduled did not go through as expected. I need this fixed quickly.",Payment Issue,Payment Issue__14
+"The ATM gave an error but still deducted Rs. 15,000 from my balance. Kindly look into this urgently.",ATM Issue,ATM Issue__7
+"Good morning, The interest rate applied to my loan seems wrong. pls advise on the next steps.",Loan / EMI,Loan / EMI__2
+"Dear Sir/Madam, The amount debited during a failed transaction was never reversed.",Refund / Reversal,Refund / Reversal__13
+"Hi team, Duplicate entry of Rs. 2,500 shows up in my transaction history. Please escalate this if needed.",Duplicate Transaction,Duplicate Transaction__6
+"Hi, Can you help me unblock my card? It got locked after a few wrong PIN attempts. This has been going on for days now.",Card Issue,Card Issue__10
+"Hi, I tried paying my bill using net banking and it did not go through properly. Please resolve this as soon as possible.",Payment Issue,Payment Issue__2
+"Respected Sir, My account was debited twice for one UPI transaction. Please help me resolve this.",Duplicate Transaction,Duplicate Transaction__4
+"Hello there, I withdrew Rs. 2,500 but only received partial cash. This has been going on for days now.",ATM Issue,ATM Issue__6
+"Respected Sir, There is an issue with a payment I sent via UPI. Please advise on the next steps.",Payment Issue,Payment Issue__4
+"Hi team, This SMS alert charge seems unusually high this month.",Charges / Fees,Charges / Fees__8
+"Hello there, There's a discrepancy in my loan statement regarding the outstanding balance. This has been going on for days now.",Loan / EMI,Loan / EMI__5
+I received an OTP for a transaction I never initiated. This has been going on for days now.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__7
+I forgot my banking password and can't reset it. pls escalate this if needed.,Login / Account Access,Login / Account Access__1
+I paid my credit card bill but it's not reflecting in the account. This has been going on for days now.,Payment Issue,Payment Issue__18
+"Hello, My loan applicaton status hasn't been updated in weeks. This has been going on for days now.",Loan / EMI,Loan / EMI__10
+When will I receive my refund? I need this fixed quickly.,Refund / Reversal,Refund / Reversal__1
+"Respected Sir, My refund of Rs. 2,500 was supposed to arrive within 5-7 days but hasn't. I would appreciate a quick response.",Refund / Reversal,Refund / Reversal__11
+My account was debited twice for one the website transaction. Kindly look into this urgently.,Duplicate Transaction,Duplicate Transaction__4
+"Dear Sir/Madam, I need a foreclosure statement for my home loan. pls resolve this as soon as possible.",Loan / EMI,Loan / EMI__7
+"Respected Sir, I noticed a hidden fee of Rs. 99 that I never agreed to. This has been going on for days now.",Charges / Fees,Charges / Fees__4
+"Hi, Push notifications from the banking app have stopped working. This has been going on for days now.",Mobile Banking / App Issue,Mobile Banking / App Issue__11
+"Hi team, The ATM at the MG Road ATM was out of service but still processed my request. pls escalate this if needed.",ATM Issue,ATM Issue__9
+"Hi team, I noticed a hidden fee of Rs. 500 that I never agreed to. I would appreciate a quick response.",Charges / Fees,Charges / Fees__4
+"Hello, Why was I charged a transaction fee? Can someone from the bank contact me?",Charges / Fees,Charges / Fees__0
+This is the second time I've been billed twice for the same order. This is really frustrating.,Duplicate Transaction,Duplicate Transaction__9
+"Dear Sir/Madam, I withdrew Rs. 3,400 but only received partial cash.",ATM Issue,ATM Issue__6
+Why am I being charged for using an ATM of another bank? I need this fixed quickly.,Charges / Fees,Charges / Fees__5
+"Dear Sir/Madam, The ATM screen froze after I entered my PIN a few minutes ago. I would appreciate a quick response.",ATM Issue,ATM Issue__4
+"Respected Sir, My card was swallowed by the machine and hasn't been returned. This has been going on for days now.",Card Issue,Card Issue__14
+The payment I made just now seems to be stuck in processing. Please help me resolve this.,Payment Issue,Payment Issue__3
+Please help me change my email address linked to my account. Please escalate this if needed.,Account Services,Account Services__3
+"Hello, I want to link my new phone number to my bank account. I would appreciate a quick response.",Account Services,Account Services__11
+The app freezes every time I try to make a transfer. I would appreciate a quick response.,Mobile Banking / App Issue,Mobile Banking / App Issue__3
+Why did my transfer fail when I had sufficient balance? pls help me resolve this.,Failed Transaction,Failed Transaction__7
+"Good morning, The chargeback I requested hasn't been credited to my account. This has been going on for days now.",Refund / Reversal,Refund / Reversal__10
+"Good morning, I forgot my banking password and can't reset it. Can someone from the bank contact me?",Login / Account Access,Login / Account Access__1
+The bill payment I scheduled did not go through as expected. Please help me resolve this.,Payment Issue,Payment Issue__14
+"Dear Sir/Madam, My card was swallowed by the machine and hasn't been returned. Please advise on the next steps.",Card Issue,Card Issue__14
+"Hi team, The banking app keeps crashing. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__0
+"Hello there, There's a discrepancy in my loan statement regarding the outstanding balance. Can someone from the bank contact me?",Loan / EMI,Loan / EMI__5
+"Hello there, The app is stuck on the loading screen and won't open. I would appreciate a quick response.",Mobile Banking / App Issue,Mobile Banking / App Issue__5
+I'm unable to complete a paymnet even after multiple tries. I need this fixed quickly.,Payment Issue,Payment Issue__15
+"Dear Sir/Madam, I cannot log into the mobile banking application. Please escalate this if needed.",Mobile Banking / App Issue,Mobile Banking / App Issue__15
+The app logs me out automatically every few minutes.,Mobile Banking / App Issue,Mobile Banking / App Issue__8
+"Respected Sir, The refund for my failed transaction is taking too long. Kindly look into this urgently.",Refund / Reversal,Refund / Reversal__3
+"Hello, My account was debited twice for one PhonePe transaction. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__4
+"Hi team, I can't sign in to the app, it just keeps spinning. Kindly look into this urgently.",Login / Account Access,Login / Account Access__15
+"Respected Sir, The app's login screen just keeps spinning and never lets me in. Please escalate this if needed.",Mobile Banking / App Issue,Mobile Banking / App Issue__18
+"Dear Sir/Madam, I only made one payment but two deductions happened. Please resolve this as soon as possible.",Duplicate Transaction,Duplicate Transaction__5
+"Hello there, My withdrawal of 2000 rupees at the branch was not successful but money is deducted.",ATM Issue,ATM Issue__14
+"Hello, I'm trying to pay a merchant but the payment keeps failing halfway. pls resolve this as soon as possible.",Payment Issue,Payment Issue__5
+I need to update my address on file with the bank. Can someone from the bank contact me?,Account Services,Account Services__2
+"Hello there, This is the second time I've been billed twice for the same order.",Duplicate Transaction,Duplicate Transaction__9
+"Good morning, Why has my EMI increased suddenly without explanation? Please help me resolve this.",Loan / EMI,Loan / EMI__8
+"Respected Sir, Please help me change my email address linked to my account. I would appreciate a quick response.",Account Services,Account Services__3
+"Hi, I have a problem with my loan repayment schedule. Can someone from the bank contact me?",Loan / EMI,Loan / EMI__1
+"Dear Sir/Madam, My accont got locked and I don't know how to unlock it. I need this fixed quickly.",Login / Account Access,Login / Account Access__8
+"Hi team, There are two identical charges of 500 rupees on my account.",Duplicate Transaction,Duplicate Transaction__3
+"Respected Sir, My credit card got blocked without any notification. I would appreciate a quick response.",Card Issue,Card Issue__2
+"Good morning, There is an issue with a payment I sent via NEFT. pls escalate this if needed.",Payment Issue,Payment Issue__4
+"Hi team, The auto-debit for my car loan EMI failed even though I had funds. Please resolve this as soon as possible.",Loan / EMI,Loan / EMI__12
+"Hi team, I think my card details have been stolen and misused. pls escalate this if needed.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__4
+"Hello there, The net banking portal keeps saying invalid credentials. pls advise on the next steps.",Login / Account Access,Login / Account Access__2
+"Hello, The card reader keeps rejecting my card everywhere I try. I would appreciate a quick response.",Card Issue,Card Issue__3
+"Hi team, My bill payment got processed twice by mistake. This has been going on for days now.",Duplicate Transaction,Duplicate Transaction__10
+"Dear Sir/Madam, The login page keeps showing an authentication error. Can someone from the bank contact me?",Login / Account Access,Login / Account Access__6
+"Hello there, I forgot my username for the online banking portal. Please help me resolve this.",Login / Account Access,Login / Account Access__7
+"Hi, I need help setting up a standing instruction for rent paymnet. I need this fixed quickly.",Account Services,Account Services__13
+"Dear Sir/Madam, Please help me change my email address linked to my account. I need this fixed quickly.",Account Services,Account Services__3
+"Dear Sir/Madam, I need clarification on the remaining tenure of my loan. This has been going on for days now.",Loan / EMI,Loan / EMI__13
+"Good morning, My online transfer of Rs. 2,500 has failed and hasn't been reversed yet. Kindly look into this urgently.",Failed Transaction,Failed Transaction__10
+"Hello there, My transction got declined a few minutes ago for no clear reason.",Failed Transaction,Failed Transaction__3
+"Hi, The app logs me out automatically every few minutes. I would appreciate a quick response.",Mobile Banking / App Issue,Mobile Banking / App Issue__8
+When will I receive my refund? Please escalate this if needed.,Refund / Reversal,Refund / Reversal__1
+The chip on my debit card seems to be damaged.,Card Issue,Card Issue__6
+"Respected Sir, Can you assist me in closing my old account?",Account Services,Account Services__5
+Cash was not received but my account shows a debit of 2000 rupees. Please advise on the next steps.,ATM Issue,ATM Issue__2
+My transaction got declined two days ago for no clear reason. Kindly look into this urgently.,Failed Transaction,Failed Transaction__3
+"Hi team, No cash came out of the machine, yet the SMS shows a debit.",ATM Issue,ATM Issue__8
+"Hello, I received a debit alert for Rs. 3,400 but the ATM gave me nothing. Please help me resolve this.",ATM Issue,ATM Issue__12
+"Respected Sir, Why am I being charged for using an ATM of another bank? I would appreciate a quick response.",Charges / Fees,Charges / Fees__5
+"My refund of Rs. 3,400 was supposed to arrive within 5-7 days but hasn't.",Refund / Reversal,Refund / Reversal__11
+"Hi team, My EMI was deducted incorrectly this month. I need this fixed quickly.",Loan / EMI,Loan / EMI__0
+My account was compromised and money is missing. pls help me resolve this.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__14
+"Hello, The same transaction of $200 appears two times in my statement. Please advise on the next steps.",Duplicate Transaction,Duplicate Transaction__1
+"Good morning, The bill paymnet section of the app isn't loading properly.",Mobile Banking / App Issue,Mobile Banking / App Issue__14
+"Respected Sir, I need a foreclosure statement for my home loan. I need this fixed quickly.",Loan / EMI,Loan / EMI__7
+I'm locked out of my account after too many failed login attempts.,Login / Account Access,Login / Account Access__3
+"Respected Sir, Why do I see a processing fee for a free transction? This is really frustrating.",Charges / Fees,Charges / Fees__9
+"Hello, There are two identical charges of $50 on my account. This is really frustrating.",Duplicate Transaction,Duplicate Transaction__3
+"Dear Sir/Madam, Someone withdrew Rs. 850 from my account without my consent. This is really frustrating.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__12
+I was billed an annual fee I wasn't informed about. I would appreciate a quick response.,Charges / Fees,Charges / Fees__2
+A payment attempt failed but I still see a debit entry. Kindly look into this urgently.,Failed Transaction,Failed Transaction__15
+"Respected Sir, The latest app update broke the fund transfer feature. Can someone from the bank contact me?",Mobile Banking / App Issue,Mobile Banking / App Issue__10
+"Dear Sir/Madam, My online transfer of Rs. 15,000 has failed and hasn't been reversed yet. This is really frustrating.",Failed Transaction,Failed Transaction__10
+"Good morning, My cancelled transaction has not been refunded.",Refund / Reversal,Refund / Reversal__0
+My banking app shows a blank screen after the update. Can someone from the bank contact me?,Mobile Banking / App Issue,Mobile Banking / App Issue__4
+I need to change the name on my account after marriage. Can someone from the bank contact me?,Account Services,Account Services__9
+"Hi team, Why do I see a processing fee for a free transaction? pls escalate this if needed.",Charges / Fees,Charges / Fees__9
+"Respected Sir, The latest app update broke the fund transfer feature. Kindly look into this urgently.",Mobile Banking / App Issue,Mobile Banking / App Issue__10
+"Good morning, The server error caused my transaction to fail a few minutes ago. I would appreciate a quick response.",Failed Transaction,Failed Transaction__17
+The ATM printed a receipt but no cash came out.,ATM Issue,ATM Issue__13
+"Hi team, I forgot my username for the online banking portal. I need this fixed quickly.",Login / Account Access,Login / Account Access__7
+Someone has used my card without permission. Please resolve this as soon as possible.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__1
+"Hello, Why does my payment status say 'processing' even after this morning?",Payment Issue,Payment Issue__10
+"Respected Sir, The chargeback I requested hasn't been credited to my account.",Refund / Reversal,Refund / Reversal__10
+"Hello, There's unauthorized activity on my account that I need investigated urgently. I would appreciate a quick response.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__10
+"Respected Sir, How do I update my KYC documents? This has been going on for days now.",Account Services,Account Services__8
+"Hi, I keep getting 'transaction declined' even though everything looks fine.",Failed Transaction,Failed Transaction__14
+I lost my card last night and need to block it immediately. Please resolve this as soon as possible.,Card Issue,Card Issue__4
+The system says my transaction timed out and failed. This is really frustrating.,Failed Transaction,Failed Transaction__12
+I only swiped my card once but was charged for it twice. This is really frustrating.,Duplicate Transaction,Duplicate Transaction__11
+"Respected Sir, The net banking portal keeps saying invalid credentials. This has been going on for days now.",Login / Account Access,Login / Account Access__2
+"Hi team, Every time I open the app it asks me to log in again and fails. I need this fixed quickly.",Mobile Banking / App Issue,Mobile Banking / App Issue__17
+I need to report a damaged card. I would appreciate a quick response.,Card Issue,Card Issue__1
+I want to open a new fixed deposit account. I need this fixed quickly.,Account Services,Account Services__7
+"Cash was not received but my accont shows a debit of Rs. 3,400. Can someone from the bank contact me?",ATM Issue,ATM Issue__2
+"Hi team, I tried transferring money and it failed midway through. Please escalate this if needed.",Failed Transaction,Failed Transaction__4
+"Hello, Can someone clarify why $200 was deducted as a service charge? Kindly look into this urgently.",Charges / Fees,Charges / Fees__12
+"Hello, My accont was compromised and money is missing. Please help me resolve this.",Fraud / Suspicious Activity,Fraud / Suspicious Activity__14
+An unknown transaction of Rs. 500 appeared on my statement. Please help me resolve this.,Fraud / Suspicious Activity,Fraud / Suspicious Activity__5
+The banking app keeps crashing. This is really frustrating.,Mobile Banking / App Issue,Mobile Banking / App Issue__0
+"Dear Sir/Madam, I want to open a new fixed deposit account.",Account Services,Account Services__7
+"Hello there, I forgot my banking password and can't reset it. Please help me resolve this.",Login / Account Access,Login / Account Access__1
+"Hello, I need an update on the reversal for my failed Paytm payment.",Refund / Reversal,Refund / Reversal__7
